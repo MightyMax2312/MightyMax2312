@@ -38,11 +38,6 @@ Educational mathematics tool designed to help students and learners master compl
 - **Tech**: Python, NumPy, Matplotlib
 - **Impact**: Enhanced learning experience through visualization and practice
 
-### [Geometry Scale](https://github.com/MightyMax2312/Geometry_Scale)
-Interactive React application for teaching geometry concepts through hands-on triangle manipulation and classification.
-- **Tech**: React, JavaScript, CSS3
-- **Features**: Real-time visualization, educational gamification
-
 ### [DocBot](https://github.com/MightyMax2312/Docbot)
 AI-powered medical chatbot for healthcare assistance and patient interaction.
 - **Tech**: Python, NLP, Web Technologies
