@@ -8,8 +8,8 @@ I'm passionate about leveraging technology to solve real-world problems, with a 
 
 ## 🔭 What I'm Working On
 
-- **Healthcare AI**: Developing deep learning models for medical diagnosis, including strabismus detection systems
 - **Educational Technology**: Building interactive learning platforms for mathematics and geometry
+- **Healthcare AI**: Developing deep learning models for medical diagnosis and patient care systems
 - **Computer Vision**: Implementing neural networks for image processing and pattern recognition
 
 ---
@@ -33,10 +33,10 @@ I'm passionate about leveraging technology to solve real-world problems, with a 
 
 ## 🚀 Featured Projects
 
-### [Strabismus Detection System](https://github.com/MightyMax2312/Strabismus_Detection) ⭐
-Deep learning model for detecting eye misalignment using CNN architecture. Includes complete pipeline from preprocessing to deployment-ready h5 model.
-- **Tech**: Python, TensorFlow, Keras, OpenCV
-- **Impact**: Automated screening tool for early detection
+### [MathProf](https://github.com/MightyMax2312/MathProf) ⭐
+Educational mathematics tool designed to help students and learners master complex mathematical concepts through interactive problem-solving.
+- **Tech**: Python, NumPy, Matplotlib
+- **Impact**: Enhanced learning experience through visualization and practice
 
 ### [Geometry Scale](https://github.com/MightyMax2312/Geometry_Scale)
 Interactive React application for teaching geometry concepts through hands-on triangle manipulation and classification.
