@@ -33,7 +33,7 @@ I'm passionate about leveraging technology to solve real-world problems, with a 
 
 ## 🚀 Featured Projects
 
-### [MathProf](https://github.com/MightyMax2312/MathProf) ⭐
+### [MathProf](https://github.com/MightyMax2312/MathProf) 
 Educational mathematics tool designed to help students and learners master complex mathematical concepts through interactive problem-solving.
 - **Tech**: Python, NumPy, Matplotlib
 - **Impact**: Enhanced learning experience through visualization and practice
